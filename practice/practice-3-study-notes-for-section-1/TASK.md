@@ -26,8 +26,9 @@ origin: "https://edu.susu.ru/mod/assign/view.php?id=8720215"
 -->
 
 Введение в дисциплину. Инструменты работы с вероятностными моделями. Выбор вероятностной модели данных. Примеры вероятностных моделей в задачах регрессии и классификации.
+
 Оценивается опорный конспект по каждому разделу. За каждый конспект по разделу выставляется от 0 до 3 баллов.
 
-https://rutube.ru/video/9c0f8e23b30cc0df8306f3fbe9164d6b/
+<https://rutube.ru/video/9c0f8e23b30cc0df8306f3fbe9164d6b/>
 
-https://bayesgroup.github.io/bmml/2016/Lectures/lecture01_presentation.pdf
+[https://bayesgroup.github.io/bmml/2016/Lectures/lecture01_presentation.pdf](lecture01_presentation.pdf)

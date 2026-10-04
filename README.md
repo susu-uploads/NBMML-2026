@@ -1,5 +1,3 @@
-# Нейробайесовские методы в машинном обучении
+# 2026/2027 Нейробайесовские методы в машинном обучении (очная)
 
-Neuro-Bayesian Methods in Machine Learning
-
-[NBMML-2026 — описание курса и материалы](COURSE.md).
+## Neuro-Bayesian Methods in Machine Learning
