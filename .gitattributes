@@ -15,3 +15,6 @@
 # Models and datasets
 *.pth filter=lfs diff=lfs merge=lfs -text
 *-ubyte filter=lfs diff=lfs merge=lfs -text
+
+# Preserve original line endings in source datasets
+practice/practice-2-oral-assessment-in-practical-classes-for-section-1/vae_generated_data.csv -text whitespace=cr-at-eol
